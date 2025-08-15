@@ -1,1 +1,1 @@
-postgres:14.18
+minio:8.2.2
